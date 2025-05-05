@@ -1,0 +1,3 @@
+this script needs to be mounted to the Camera that it can work successfully.
+
+another point that needs attetion is that the image which you want to pick color needs to be held by the camera view otherwise it could not capture the color through the raycast successfully.
